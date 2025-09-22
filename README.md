@@ -9,7 +9,6 @@ Key Features
 - Visualization of clusters and insights
 
 ## Repository Layout
-- `notebooks/` → Jupyter notebooks for experimentation
-- `src/` → Python scripts for preprocessing, modeling, and visualization
-- `data/` → Contains raw and processed data (not included in repo by default)
-- `reports/figures/` → Exported charts and visuals
+- `Customer Segmentation/` → Jupyter notebooks for code
+- `Online Retail` → Contains the raw data
+
