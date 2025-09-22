@@ -9,6 +9,6 @@ Key Features
 - Visualization of clusters and insights
 
 ## Repository Layout
-- `Customer Segmentation/` → Jupyter notebooks for code
+- `Customer Segmentation.ipynb/` → Jupyter notebooks for code
 - `Online Retail` → Contains the raw data
 
